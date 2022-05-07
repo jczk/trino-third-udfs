@@ -1,3 +1,3 @@
 # trino-third-udfs
 
-# Please read docs/use.md
+# please read src/main/docs/use.md
